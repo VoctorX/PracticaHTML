@@ -6,20 +6,14 @@
 }
 header {
     background-color: #222;
+    background-size: auto ;
     color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 30px;
+    padding: 5px 30px;
 }
-header a {
-    color: #FFD700;
-    text-decoration: none;
-    font-weight: bold;
-}
-header a:hover {
-    color: #fff;
-}
+
 .bienvenida {
     text-align: center;
     padding: 30px;
