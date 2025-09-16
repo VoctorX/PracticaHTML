@@ -3,9 +3,8 @@
 Este repositorio contiene la actividad práctica realizada para la asignatura **Diseño y Edición Gráfica**.  
 El trabajo consistió en desarrollar una página web sencilla que funciona como **catálogo de productos tecnológicos**, utilizando **HTML y CSS**.
 
-### Descripción del proyecto
 Mi ejercicio creativo muestra un sitio web con:
-- **Tres productos principales**: iPhone 16, Laptop DELL y Cámara Panasonic.  
+- **Tres productos principales**
 - **Elementos de diseño**: header, body y footer.  
 - **Interactividad**: efectos *hover* en las tarjetas de productos.  
 - **Estilos**: paleta de colores basada en tonos azules, grises y blancos.
